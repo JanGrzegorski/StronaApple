@@ -84,9 +84,9 @@ h4,h5{
     text-align: center;
 }
 .sekcja3{
+    background-image: url(smartwatche.jpg);
     background-size: 140% 692px;
     background-position-x:center ;
     background-repeat: no-repeat;
-    background-image: url(smartwatche.jpg);
 }
     
